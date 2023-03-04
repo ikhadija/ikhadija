@@ -2,9 +2,9 @@
 <h3 align="center">Front-end developer, Programmer👩‍💻 </h3>
 
 <br>
+![output-onlinegiftools](https://user-images.githubusercontent.com/107802390/222894484-d6a8bfa6-4d1a-487e-9bfc-69ed4daae9c8.gif)
 
-<p><img align="right" src=![output-onlinegiftools](https://user-images.githubusercontent.com/107802390/222894484-d6a8bfa6-4d1a-487e-9bfc-69ed4daae9c8.gif)
- height="450" width="400" alt="programmer" /></p>
+<p><img align="right" src="" height="450" width="400" alt="programmer" /></p>
 
 - 👨‍💻 I'm UI/UX Designer
 - 🌱 I’m currently open **for an Intern or a new job opportunity**
