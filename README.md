@@ -3,7 +3,8 @@
 
 <br>
 
-<p><img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" height="450" width="400" alt="programmer" /></p>
+<p><img align="right" src="![output-onlinegiftools](https://user-images.githubusercontent.com/107802390/222894484-d6a8bfa6-4d1a-487e-9bfc-69ed4daae9c8.gif)
+" height="450" width="400" alt="programmer" /></p>
 
 - 👨‍💻 I'm UI/UX Designer
 - 🌱 I’m currently open **for an Intern or a new job opportunity**
