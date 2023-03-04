@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadija Alghannam</h1>
 <h3 align="center">Frontend developer</h3>
 
+- 👨‍💻 I'm UI/UX Designer
 - 🌱 I’m currently open **for an Intern or a new job opportunity**
 
 <h3 align="left">Connect with me:</h3>
