@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadija Alghannam</h1>
-<h3 align="center">Front-end developer, Programmer👩‍💻 </h3>
+<h3 align="center">UI/UX Designer, Front-end developer, Programmer👩‍💻 </h3>
 
 <br>
 
